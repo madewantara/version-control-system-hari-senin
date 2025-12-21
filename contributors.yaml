@@ -18,16 +18,8 @@ contributors:
     favorite_language: "JavaScript"
     joined_date: "2025-12-20"
     bio: "Learning full stack development and excited about version control!"
-# Instructions for adding yourself:
-# 1. Fork this repository
-# 2. Create a new branch: git checkout -b add-your-name
-# 3. Add your information below following the same format
-# 4. Make sure to use proper YAML syntax (mind the spacing and indentation)
-# 5. Commit your changes: git commit -m "Add [Your Name] to contributors"
-# 6. Push to your fork: git push origin add-your-name
-# 7. Create a Pull Request
 
-# Add your entry here:
+  # Add your entry here:
   - name: "Bimo"
     github: "biesmojo"
     role: "student"
@@ -36,3 +28,21 @@ contributors:
     favorite_language: "JavaScript"
     joined_date: "2025-12-20"
     bio: "Full Stack Developer student"
+  # Instructions for adding yourself:
+  # 1. Fork this repository
+  # 2. Create a new branch: git checkout -b add-your-name
+  # 3. Add your information below following the same format
+  # 4. Make sure to use proper YAML syntax (mind the spacing and indentation)
+  # 5. Commit your changes: git commit -m "Add [Your Name] to contributors"
+  # 6. Push to your fork: git push origin add-your-name
+  # 7. Create a Pull Request
+
+  # Add your entry here:
+  # Add your entry following the existing format
+  - name: "Rizki Andriana Ismail"
+    github: "rizkiismail"
+    role: "Student"
+    batch: "18" # Your batch number
+    skills: ["HTML", "CSS", "JS"]
+    favorite_language: "PHP" # or your preferred language
+    joined_date: "2025-12-21" # Today's date
