@@ -2,7 +2,7 @@
 contributors:
   - name: "Made Dewantara"
     github: "madewantara"
-    role: "Instructor"
+    role: "Student"
     batch: "18"
     skills: ["JavaScript", "Node.js", "React", "Git", "Full Stack Development"]
     favorite_language: "JavaScript"
@@ -26,5 +26,13 @@ contributors:
 # 5. Commit your changes: git commit -m "Add [Your Name] to contributors"
 # 6. Push to your fork: git push origin add-your-name
 # 7. Create a Pull Request
-
 # Add your entry here:
+# Add your entry following the existing format
+- name: "Guntoro"
+  github: "Guntoror"
+  role: "Student"
+  batch: "18" # Your batch number
+  skills: ["skill1", "skill2", "skill3"]
+  favorite_language: "JavaScript" # or your preferred language
+  joined_date: "202
+  g5-12-20" # Today's date
