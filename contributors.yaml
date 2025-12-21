@@ -28,6 +28,7 @@ contributors:
 # 7. Create a Pull Request
 
 # Add your entry here:
+<<<<<<< HEAD
   - name: "Bimo"
     github: "biesmojo"
     role: "student"
@@ -36,3 +37,13 @@ contributors:
     favorite_language: "JavaScript"
     joined_date: "2025-12-20"
     bio: "Full Stack Developer student"
+=======
+  - name: "Rio Aurelio"
+    github: "SirYazoo"
+    role: "Student"
+    batch: "18"
+    skills: ["HTML", "CSS", "JavaScript"]
+    favorite_language: "JavaScript"
+    joined_date: "2025-12-20"
+    bio: "Learning full stack development and excited about version control!"
+>>>>>>> 1f6d39e (Add Rio Aurelio to contributors list)
