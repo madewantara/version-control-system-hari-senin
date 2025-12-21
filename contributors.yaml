@@ -18,6 +18,7 @@ contributors:
     favorite_language: "JavaScript"
     joined_date: "2025-12-20"
     bio: "Learning full stack development and excited about version control!"
+
 # Instructions for adding yourself:
 # 1. Fork this repository
 # 2. Create a new branch: git checkout -b add-your-name
@@ -36,3 +37,11 @@ contributors:
     favorite_language: "JavaScript"
     joined_date: "2025-12-20"
     bio: "Full Stack Developer student"
+  - name: "Muhammad Ammar Nugraha"
+    github: "muhammadammarnugraha"
+    role: "Student"
+    batch: "18" # Your batch number
+    skills: ["Python", "Javascript", "C#"]
+    favorite_language: "Python" # or your preferred language
+    joined_date: "2025-12-20" # Today's date
+    bio: "An Unemployed man!"
