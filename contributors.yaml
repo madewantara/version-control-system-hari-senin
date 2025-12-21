@@ -10,8 +10,8 @@ contributors:
     bio: "Full Stack Developer Instructor passionate about teaching Git and modern web development"
 
   # Example student entry (template for students to follow)
-  - name: "John Doe"
-    github: "johndoe-example"
+  - name: "Muhammad Abdul Karim Satha"
+    github: "muhabkasa"
     role: "Student"
     batch: "18"
     skills: ["HTML", "CSS", "JavaScript"]
