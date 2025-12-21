@@ -28,3 +28,12 @@ contributors:
 # 7. Create a Pull Request
 
 # Add your entry here:
+
+  - name: "Ahmad Rasya Mahfud"
+    github: "rasyamahfud"
+    role: "Freshgraduate"
+    batch: "18"
+    skills: ["HTML", "CSS", "JavaScript"]
+    favorite_language: "JavaScript"
+    joined_date: "2025-12-21"
+    bio: "Semoga kau bahagia!"
