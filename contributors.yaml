@@ -28,3 +28,11 @@ contributors:
 # 7. Create a Pull Request
 
 # Add your entry here:
+  - name: "riza ashari"
+    github: "riza.harjuna-netizen"
+    role: "Student"
+    batch: "18"
+    skills: ["HTML", "CSS", "JavaScript"]
+    favorite_language: "JavaScript"
+    joined_date: "2025-12-21"
+    bio: "Learning full stack development and excited about version control!"
