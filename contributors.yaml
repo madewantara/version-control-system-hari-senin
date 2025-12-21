@@ -28,8 +28,8 @@ contributors:
 # 7. Create a Pull Request
 
 # Add your entry here:
-  - name: "Bimo"
-    github: "biesmojo"
+  - name: "Budi Sambodo"
+    github: "budi98-dot"
     role: "student"
     batch: "18"
     skills: ["JavaScript", "Node.js", "React", "Git", "Full Stack Development"]
