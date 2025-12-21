@@ -28,3 +28,11 @@ contributors:
 # 7. Create a Pull Request
 
 # Add your entry here:
+  - name: "Agil"
+    github: "gilldes"
+    role: "student"
+    batch: "18"
+    skills: ["JavaScript", "Node.js", "React", "Git", "Full Stack Development"]
+    favorite_language: "JavaScript"
+    joined_date: "2025-12-20"
+    bio: "Full Stack Developer"
