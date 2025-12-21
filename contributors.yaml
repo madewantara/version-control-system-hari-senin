@@ -27,4 +27,13 @@ contributors:
 # 6. Push to your fork: git push origin add-your-name
 # 7. Create a Pull Request
 
-# Add your entry here:
+# Add your entry here: 
+
+  - name: "hanif abdurrhaman muflih"
+    github: "hanifamuflih25-lab"
+    role: "Student"
+    batch: "18"
+    skills: ["HTML", "CSS", "JavaScript"]
+    favorite_language: "JavaScript"
+    joined_date: "2025-12-20"
+    bio: "Learning full stack development and excited about version control!"
