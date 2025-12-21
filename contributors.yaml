@@ -10,13 +10,13 @@ contributors:
     bio: "Full Stack Developer Instructor passionate about teaching Git and modern web development"
 
   # Example student entry (template for students to follow)
-  - name: "John Doe"
-    github: "johndoe-example"
+  - name: "Michael"
+    github: "michaelsh-dev"
     role: "Student"
     batch: "18"
     skills: ["HTML", "CSS", "JavaScript"]
     favorite_language: "JavaScript"
-    joined_date: "2025-12-20"
+    joined_date: "2025-12-21"
     bio: "Learning full stack development and excited about version control!"
 # Instructions for adding yourself:
 # 1. Fork this repository
