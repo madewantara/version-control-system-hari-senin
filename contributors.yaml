@@ -36,3 +36,13 @@ contributors:
     favorite_language: "JavaScript"
     joined_date: "2025-12-20"
     bio: "Full Stack Developer student"
+
+# Add your entry following the existing format
+    name: "Roihan Tauhid "
+    github: "RoiiHan"
+    role: "Student"
+    batch: "18" # Your batch number
+    skills: ["javascripts", "tailwind", "Full Stack Developer"]
+    favorite_language: "JavaScript" # or your preferred language
+    joined_date: "2025-12-24" # Today's date
+    bio: "Fullstack Developer Enthusiast"
