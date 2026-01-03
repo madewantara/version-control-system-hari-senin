@@ -36,3 +36,12 @@ contributors:
     favorite_language: "JavaScript"
     joined_date: "2025-12-20"
     bio: "Full Stack Developer student"
+
+    # Add your entry following the existing format
+- name: "Mutsaqoful Fikri"
+  github: "vviqry"
+  role: "Student"
+  batch: "18" # Your batch number
+  skills: ["HTML", "CSS", "JavaScript"]
+  favorite_language: "JavaScript" # or your preferred language
+  joined_date: "2026-1-2" # Today's date
