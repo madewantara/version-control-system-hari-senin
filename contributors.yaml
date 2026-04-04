@@ -28,3 +28,12 @@ contributors:
 # 7. Create a Pull Request
 
 # Add your entry here:
+# Example student entry (template for students to follow)
+  - name: "Ramdan Amzani Akbar"
+    github: "Amzaniii-Amzaniii"
+    role: "Student"
+    batch: "19"
+    skills: ["HTML", "CSS", "JavaScript", "ReactJs", "NextJs"]
+    favorite_language: "JavaScript"
+    joined_date: "2026-04-04"
+    bio: "Learning full stack development and excited about version control!"
