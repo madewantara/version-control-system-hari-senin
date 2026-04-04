@@ -28,3 +28,11 @@ contributors:
 # 7. Create a Pull Request
 
 # Add your entry here:
+# Add your entry following the existing format
+- name: "Muhammad-Ikram-Zihni"
+  github: "0nlyfann"
+  role: "Student"
+  batch: "19" 
+  skills: ["menguasai elemen api dan air"]
+  favorite_language: "python" 
+  joined_date: "2026-12-20"
