@@ -28,3 +28,10 @@ contributors:
 # 7. Create a Pull Request
 
 # Add your entry here:
+  - name: "Trian Saputra"
+    github: "trianSaputa"
+    role: "Student"
+    batch: "19"
+    skills: ["HTML", "CSS", "Javascript"]
+    favorite_language: "JavaScript"
+    joined_date: "2025-12-20"
