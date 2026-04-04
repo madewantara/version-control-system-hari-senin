@@ -36,3 +36,10 @@ contributors:
     favorite_language: "JavaScript"
     joined_date: "2026-03-18"
     bio: "Backend developer"
+-  name: "Atha Ezrafi"
+    github: "github.com/athaezrafi"
+    role: "Student"
+    batch: "19" 
+    skills: ["skill1", "skill2", "skill3"]
+    favorite_language: "JavaScript" 
+    joined_date: "2026-12-20" 
