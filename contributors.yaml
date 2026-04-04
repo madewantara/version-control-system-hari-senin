@@ -28,3 +28,21 @@ contributors:
 # 7. Create a Pull Request
 
 # Add your entry here:
+- name: "Adli Rafsanjani"
+  github: "adlirafsanjani"
+  role: "Student"
+  batch: "18"
+  skills: ["HTML", "CSS", "Laravel"]
+  favorite_language: "PHP"
+  joined_date: "2026-04-04"
+
+
+  - name: "Adli Rafsanjani"
+  github: "adlirafsanjani"
+  role: "Student"
+  batch: "18"
+  skills: ["HTML", "CSS", "Laravel"]
+  favorite_language: "PHP"
+  joined_date: "2026-04-04"
+  
+
