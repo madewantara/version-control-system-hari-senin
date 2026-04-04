@@ -28,3 +28,12 @@ contributors:
 # 7. Create a Pull Request
 
 # Add your entry here:
+# Add your entry here:
+
+- name: "Ivah Puspita Payangan"
+  github: "github.com/ivahpuspitaa"
+  role: "Student"
+  batch: "19"
+  skills: ["skill1", "skill2", "skill3"]
+  favorite_language: "JavaScript" 
+  joined_date: "2026-04-04" 
