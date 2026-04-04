@@ -35,5 +35,5 @@ role: "Student"
 batch: "19" # Your batch number
 skills: ["HTML", "CSS", "JavaScript", "C++", "Git"] # List your skills
 favorite_language: "JavaScript" # or your preferred language
-joined_date: "2025-04-04" # Today's date
+joined_date: "2026-04-04" # Today's date
 bio: "Aspiring full stack developer with a passion for learning and mastering version control systems like Git. Excited to contribute to open source projects and collaborate with fellow developers!" # A short bio about yourself
