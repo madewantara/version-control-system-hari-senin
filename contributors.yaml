@@ -28,3 +28,11 @@ contributors:
 # 7. Create a Pull Request
 
 # Add your entry here:
+  - name: "Irfan Dwi Arfianto"
+    github: "irfandwi172"
+    role: "Student"
+    batch: "19"
+    skills: ["HTML", "CSS", "JavaScript"]
+    favorite_language: "JavaScript"
+    joined_date: "2026-04-04"
+    bio: "Learning full stack development and excited about version control!"
