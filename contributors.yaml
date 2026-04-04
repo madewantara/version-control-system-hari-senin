@@ -35,3 +35,13 @@ contributors:
     skills: ["skill1", "skill2", "skill3"]
     favorite_language: "JavaScript" 
     joined_date: "2026-12-20" 
+    
+  # Example student entry (template for students to follow)
+  - name: "Alwi Okta Jeremy"
+    github: "Arukasho"
+    role: "Student"
+    batch: "19"
+    skills: ["Gitar", "Python", "JavaScript"]
+    favorite_language: "JavaScript"
+    joined_date: "2026-04-04"
+    bio: "Learning full stack development and excited about version control!"
