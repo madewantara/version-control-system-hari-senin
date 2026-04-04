@@ -28,3 +28,10 @@ contributors:
 # 7. Create a Pull Request
 
 # Add your entry here:
+- name: "Ahmad Nur Fadhli"
+  github: "ahmadnurfadhli"
+  role: "Pria Solo"
+  batch: "19" 
+  skills: ["Korup", "Korup", "Korup"]
+  favorite_language: "Sawit" 
+  joined_date: "2025-12-20" 
