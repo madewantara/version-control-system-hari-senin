@@ -28,3 +28,12 @@ contributors:
 # 7. Create a Pull Request
 
 # Add your entry here:
+
+  - name: "Nuha Muhammad Iqbal Maulana"
+    github: "Nuha-77"
+    role: "Student"
+    batch: "18"
+    skills: ["HTML", "CSS", "JavaScript", "Git"]
+    favorite_language: "JavaScript"
+    joined_date: "2026-04-04"
+    bio: "Calon programmer yang siap berkarya di dunia Full Stack Development."
