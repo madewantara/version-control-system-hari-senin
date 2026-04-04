@@ -28,3 +28,11 @@ contributors:
 # 7. Create a Pull Request
 
 # Add your entry here:
+  - name: "Alvin Reihansyah Makarim"
+    github: "alvnireihans"
+    role: "Student"
+    batch: "19"
+    skills: ["JavaScript", "Node.js", "Express.js"]
+    favorite_language: "JavaScript"
+    joined_date: "2026-03-18"
+    bio: "Backend developer"
