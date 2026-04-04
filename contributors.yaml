@@ -18,6 +18,15 @@ contributors:
     favorite_language: "JavaScript"
     joined_date: "2025-12-20"
     bio: "Learning full stack development and excited about version control!"
+
+  - name: "Alry Keren"
+    github: "github/UjangSutejo"
+    role: "Student"
+    batch: "18"
+    skills: ["HTML", "CSS", "JavaScript"]
+    favorite_language: "JavaScript"
+    joined_date: "2025-12-20"
+    bio: "Learning full stack development and excited about version control!"
 # Instructions for adding yourself:
 # 1. Fork this repository
 # 2. Create a new branch: git checkout -b add-your-name
@@ -28,3 +37,4 @@ contributors:
 # 7. Create a Pull Request
 
 # Add your entry here:
+
