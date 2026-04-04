@@ -28,3 +28,11 @@ contributors:
 # 7. Create a Pull Request
 
 # Add your entry here:
+
+- name: "Muhammad Ramadhani K."
+  github: "ramadhani-k"
+  role: "Student"
+  batch: "19" # Your batch number
+  skills: ["JavaScript", "Node.js", "React", "Git", "Full Stack Development"]
+  favorite_language: "JavaScript" # or your preferred language
+  joined_date: "2026-4-4" # Today's date
