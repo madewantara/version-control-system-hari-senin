@@ -28,3 +28,12 @@ contributors:
 # 7. Create a Pull Request
 
 # Add your entry here:
+
+# Add your entry following the existing format
+- name: "Rifki Abdillah"
+  github: "rifkiabdillah68"
+  role: "Student"
+  batch: "19"
+  skills: ["dribbling", "passing", "shooting"]
+  favorite_language: ["JavaScript", "PHP"]
+  joined_date: "2026-04-04"
