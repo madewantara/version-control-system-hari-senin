@@ -28,3 +28,10 @@ contributors:
 # 7. Create a Pull Request
 
 # Add your entry here:
+- name: "Ferdinand Simanjuntak"
+  github: "ferdinandjrs"
+  role: "Student"
+  batch: "19"
+  skills: ["Web Development", "Cloud Computing", "Machine Learning"]
+  favorite_language: "JavaScript","Python","Bash Sheel"
+  joined_date: "2025-12-20"
