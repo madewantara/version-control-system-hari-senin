@@ -35,3 +35,12 @@ contributors:
     skills: ["skill1", "skill2", "skill3"]
     favorite_language: "JavaScript" 
     joined_date: "2026-12-20" 
+
+  - name: "Kevin Allen"
+    github: "kvnallenn"
+    role: "Student"
+    batch: "19"
+    skills: ["HTML", "CSS", "JavaScript"]
+    favorite_language: "JavaScript"
+    joined_date: "2025-12-20"
+    bio: "Learning full stack development and excited about version control!"
