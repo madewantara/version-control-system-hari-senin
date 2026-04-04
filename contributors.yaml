@@ -28,3 +28,10 @@ contributors:
 # 7. Create a Pull Request
 
 # Add your entry here:
+- name: "Dias Naufal"
+  github: "diasnaufal9-cell"
+  role: "Student"
+  batch: "19"
+  skills: ["HTML", "CSS", "JavaScript"]
+  favorite_language: "physical touch"
+  joined_date: "2025-04-04"
