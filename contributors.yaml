@@ -28,3 +28,11 @@ contributors:
 # 7. Create a Pull Request
 
 # Add your entry here:
+
+  - name: "Daffaiz Naufal"
+    github: "daffaizno"
+    role: "Student"
+    batch: "19" 
+    skills: ["HTML", "CSS", "JavaScript"]
+    favorite_language: "JavaScript" 
+    joined_date: "2025-12-20" # 
