@@ -28,3 +28,10 @@ contributors:
 # 7. Create a Pull Request
 
 # Add your entry here:
+- name: "Arkan Syawal Nuvadin"
+  github: "Arkan7869"
+  role: "Student"
+  batch: "19" # Your batch number
+  skills: ["HTML", "CSS", "JavaScript" , "Python"] # List your skills
+  favorite_language: "JavaScript" # or your preferred language
+  joined_date: "2026-12-20" # Today's date
