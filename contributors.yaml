@@ -28,6 +28,7 @@ contributors:
 # 7. Create a Pull Request
 
 # Add your entry here:
+
 -  name: "Atha Ezrafi"
     github: "github.com/athaezrafi"
     role: "Student"
@@ -35,3 +36,13 @@ contributors:
     skills: ["skill1", "skill2", "skill3"]
     favorite_language: "JavaScript" 
     joined_date: "2026-12-20" 
+
+- name: "Hari Narwanto"
+  github: "HariNarwantoo"
+  role: "Student"
+  batch: "19" 
+  skills: ["Git", "HTML", "CSS", "JavaScript"]
+  favorite_language: "JavaScript" 
+  joined_date: "2025-12-20" 
+  bio: "Learning full stack development and excited about version control!"
+  
