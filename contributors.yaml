@@ -35,3 +35,11 @@ contributors:
     skills: ["skill1", "skill2", "skill3"]
     favorite_language: "JavaScript" 
     joined_date: "2026-12-20" 
+
+- name: "Mochamad Rizki"
+  github: "mrizki15"
+  role: "Student"
+  batch: "19" # Your batch number
+  skills: ["Full Stack Development"]
+  favorite_language: "Python"
+  joined_date: "2025-12-20"
