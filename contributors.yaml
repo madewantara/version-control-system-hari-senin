@@ -35,3 +35,10 @@ contributors:
     skills: ["skill1", "skill2", "skill3"]
     favorite_language: "JavaScript" 
     joined_date: "2026-12-20" 
+- name: "Ivah Puspita Payangan"
+  github: "ivahpuspitaa"
+  role: "Student"
+  batch: "19"
+  skills: ["skill1", "skill2", "skill3"]
+  favorite_language: "JavaScript"
+  joined_date: "2026-04-08"
