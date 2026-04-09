@@ -27,14 +27,7 @@ contributors:
 # 6. Push to your fork: git push origin add-your-name
 # 7. Create a Pull Request
 
-# Add your entry here:
--  name: "Atha Ezrafi"
-    github: "github.com/athaezrafi"
-    role: "Student"
-    batch: "19" 
-    skills: ["skill1", "skill2", "skill3"]
-    favorite_language: "JavaScript" 
-    joined_date: "2026-12-20" 
+
 
 
     # Add your entry here:
