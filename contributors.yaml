@@ -36,3 +36,10 @@ contributors:
   skills: ["JavaScript", "Node.js", "React", "Git", "Full Stack Development"]
   favorite_language: "JavaScript" # or your preferred language
   joined_date: "2026-4-4" # Today's date
+-  name: "Atha Ezrafi"
+    github: "github.com/athaezrafi"
+    role: "Student"
+    batch: "19" 
+    skills: ["skill1", "skill2", "skill3"]
+    favorite_language: "JavaScript" 
+    joined_date: "2026-12-20" 
