@@ -42,5 +42,10 @@ contributors:
   role: "Student"
   batch: "18" # Your batch number
   skills: ["html", "css", "javascript"]
+- name: "Rama"
+  github: "Rama442"
+  role: "Student"
+  batch: "20" 
+  skills: "IELTS"
   favorite_language: "JavaScript" # or your preferred language
   joined_date: "2025-12-20" # Today's date
