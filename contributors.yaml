@@ -35,3 +35,12 @@ contributors:
     skills: ["skill1", "skill2", "skill3"]
     favorite_language: "JavaScript" 
     joined_date: "2026-12-20" 
+
+# Add your entry following the existing format
+- name: "Christian Suhandinata
+  github: "GodofAlpaca"
+  role: "Student"
+  batch: "20" # Your batch number
+  skills: ["Q", "W", "E"]
+  favorite_language: "Python" # or your preferred language
+  joined_date: "2026-06-21" # Today's date
