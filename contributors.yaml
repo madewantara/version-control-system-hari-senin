@@ -41,6 +41,6 @@ contributors:
   github: "Vincen7777"
   role: "Student"
   batch: "20" # Your batch number
-  skills: ["skill1", "skill2", "skill3"]
+  skills: ["html", "css", "javascript"]
   favorite_language: "JavaScript" # or your preferred language
   joined_date: "2025-12-20" # Today's date
