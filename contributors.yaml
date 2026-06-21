@@ -28,9 +28,13 @@ contributors:
 # 7. Create a Pull Request
 
 # Add your entry here:
--  name: "Atha Ezrafi"
-    github: "github.com/athaezrafi"
+-  name: "Mohammad Agil Rofiqul Zein"
+    github: "github.com/Mohammadagil"
     role: "Student"
+    batch: "20" 
+    skills: ["Backend", "Frontend", "Machine Learning"]
+    favorite_language: ["JavaScript", "Python"] 
+    joined_date: "2026-06-21" 
     batch: "19" 
     skills: ["skill1", "skill2", "skill3"]
     favorite_language: "JavaScript" 
