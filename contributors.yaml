@@ -28,8 +28,8 @@ contributors:
 # 7. Create a Pull Request
 
 # Add your entry here:
--  name: "Atha Ezrafi"
-    github: "github.com/athaezrafi"
+-  name: "Zidniy Farih Al Kausar"
+    github: "github.com/zidniyfak"
     role: "Student"
     batch: "19" 
     skills: ["skill1", "skill2", "skill3"]
@@ -44,3 +44,7 @@ contributors:
   skills: ["html", "css", "javascript"]
   favorite_language: "JavaScript" # or your preferred language
   joined_date: "2025-12-20" # Today's date
+    batch: "20" 
+    skills: ["ReactJS", "Kotlin", "Flutter", "PHP"]
+    favorite_language: "King PHP" 
+    joined_date: "2026-06-21"
