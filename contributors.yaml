@@ -35,3 +35,13 @@ contributors:
     skills: ["skill1", "skill2", "skill3"]
     favorite_language: "JavaScript" 
     joined_date: "2026-12-20" 
+
+
+-  name: "Balya Ahmad Waffa"
+    github: "github.com/balyahmd"
+    role: "Student"
+    batch: "23" 
+    skills: ["HTML", "CSS", "JavaScript", "Node js", "React js", "Next.js", "Express js"]
+    favorite_language: "JavaScript" 
+    joined_date: "2026-06-21" 
+
