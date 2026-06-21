@@ -37,10 +37,10 @@ contributors:
     joined_date: "2026-12-20" 
 
 # Add your entry following the existing format
-- name: "Luthfi Fauzan"
-  github: "Lzan08"
-  role: "Student"
-  batch: "20" # Your batch number
-  skills: ["C++", "C#", "Javascript"] # List your skills
-  favorite_language: "JavaScript" # or your preferred language
-  joined_date: "2026-06-21" # Today's date
+-  name: "Luthfi Fauzan"
+    github: "Lzan08"
+    role: "Student"
+    batch: "20" # Your batch number
+    skills: ["C++", "C#", "Javascript"] # List your skills
+    favorite_language: "JavaScript" # or your preferred language
+    joined_date: "2026-06-21" # Today's date
