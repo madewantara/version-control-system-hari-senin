@@ -35,3 +35,12 @@ contributors:
     skills: ["skill1", "skill2", "skill3"]
     favorite_language: "JavaScript" 
     joined_date: "2026-12-20" 
+
+# Add your entry here:
+-  name: "Amala Al Fafan Karomi"
+    github: "github.com/alfafankaromi"
+    role: "Student"
+    batch: "120" 
+    skills: ["html", "css", "javascript"]
+    favorite_language: "JavaScript" 
+    joined_date: "2026-06-21" 
