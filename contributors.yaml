@@ -34,4 +34,14 @@ contributors:
     batch: "19" 
     skills: ["skill1", "skill2", "skill3"]
     favorite_language: "JavaScript" 
-    joined_date: "2026-12-20" 
+    joined_date: "2026-12-20"
+
+
+    name: "Muhammad Iqbal"
+    github: "github.com/muhammadiqbal"
+    role: "Student"
+    batch: "20"
+    skills: ["HTML", "CSS", "Java"]
+    favorite_language: "Java"
+    joined_date: "2026-06-21"
+    bio: "Learning full stack development and excited about version control!" 
