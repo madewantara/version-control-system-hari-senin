@@ -34,4 +34,11 @@ contributors:
     batch: "19" 
     skills: ["skill1", "skill2", "skill3"]
     favorite_language: "JavaScript" 
-    joined_date: "2026-12-20" 
+    joined_date: "2026-12-20"
+-  name: "Rafli Muhh"
+    github: "github.com/rafhmuhh__"
+    role: "Student"
+    batch: "20"
+    skills: ["skill1", "skill2", "skill3"]
+    favorite_languange: "PHP"
+    joined_date" "2026-6-7"
