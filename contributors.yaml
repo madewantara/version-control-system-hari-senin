@@ -35,3 +35,12 @@ contributors:
     skills: ["skill1", "skill2", "skill3"]
     favorite_language: "JavaScript" 
     joined_date: "2026-12-20" 
+
+# Add your entry following the existing format
+name: "muhammad renaldi"
+github: "muhammadrenaldi912-eng"
+role: "Student"
+batch: "20"
+skills: ["html,css"]
+favorite_language: "JavaScript"
+joined_date: "2026-6-6"
