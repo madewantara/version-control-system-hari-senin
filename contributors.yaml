@@ -44,11 +44,11 @@ contributors:
   skills: ["html", "css", "javascript"]
   favorite_language: "JavaScript" # or your preferred language
   joined_date: "2025-12-20" # Today's date
-  
+
 - name: "Farhan Risdianto"
-  github: "github.com/farhan23-id"
+  github: "farhan23-id"
   role: "Student"
-  batch: "20" # Your batch number
+  batch: "20" 
   skills: ["HTML", "CSS", "JavaScript"]
   favorite_language: "JavaScript" # or your preferred language
   joined_date: "2026-06-21" # Today's date
