@@ -28,10 +28,10 @@ contributors:
 # 7. Create a Pull Request
 
 # Add your entry here:
--  name: "Atha Ezrafi"
-    github: "github.com/athaezrafi"
+-  name: "Agung Suseno"
+    github: "https://github.com/suseeno"
     role: "Student"
-    batch: "19" 
-    skills: ["skill1", "skill2", "skill3"]
-    favorite_language: "JavaScript" 
-    joined_date: "2026-12-20" 
+    batch: "20" 
+    skills: ["problem solving", "komunikasi yang baik", "mysql","laravel","bootraps","HTML","CSS"]
+    favorite_language: "php laravel" 
+    joined_date: "2026-06-06" 
