@@ -44,3 +44,13 @@ contributors:
   skills: ["html", "css", "javascript"]
   favorite_language: "JavaScript" # or your preferred language
   joined_date: "2025-12-20" # Today's date
+
+# Add your entry following the existing format
+- name: "Rizal"
+  github: "https://github.com/muhammadrizal02121996-cmyk"
+  role: "Student"
+  batch: "18" # Your batch number
+  skills: ["skill1", "skill2", "skill3"]
+  favorite_language: "JavaScript" # or your preferred language
+  joined_date: "2025-12-20" # Today's date
+  
