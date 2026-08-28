@@ -19,6 +19,13 @@ contributors:
     joined_date: "2025-12-20"
     bio: "Learning full stack development and excited about version control!"
 # Instructions for adding yourself:
+# Add your entry following the existing format
+- name: "Poetra Yusuf"
+  github: "Poyu0906"
+  role: "Cheff Aldis Burger"
+  batch: "19" 
+  skills: ["HTML", "CSS", "JavaScript"]
+  favorite_language: "JavaScript" 
 # 1. Fork this repository
 # 2. Create a new branch: git checkout -b add-your-name
 # 3. Add your information below following the same format
