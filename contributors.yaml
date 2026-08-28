@@ -1,13 +1,13 @@
 # Contributors List
 contributors:
-  - name: "Made Dewantara"
-    github: "madewantara"
-    role: "Instructor"
-    batch: "18"
-    skills: ["JavaScript", "Node.js", "React", "Git", "Full Stack Development"]
+  - name: "Zikri Ramadhani"
+    github: "lyleoo"
+    role: "Student"
+    batch: "19"
+    skills: ["Allrole", "Software Testing", "Full Stack Development"]
     favorite_language: "JavaScript"
-    joined_date: "2025-12-20"
-    bio: "Full Stack Developer Instructor passionate about teaching Git and modern web development"
+    joined_date: "2026-04-04"
+    bio: "Full Stack Developer Wannabe, passionate about learning new technologies and improving my coding skills"
 
   # Example student entry (template for students to follow)
   - name: "John Doe"
