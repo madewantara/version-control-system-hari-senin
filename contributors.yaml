@@ -27,9 +27,12 @@ contributors:
 # 6. Push to your fork: git push origin add-your-name
 # 7. Create a Pull Request
 
-# Add your entry here:
--  name: "Atha Ezrafi"
-    github: "github.com/athaezrafi"
+
+
+
+    # Add your entry here:
+-  name: "Raly Wijaya"
+    github: "ralywijaya"
     role: "Student"
     batch: "19" 
     skills: ["skill1", "skill2", "skill3"]
