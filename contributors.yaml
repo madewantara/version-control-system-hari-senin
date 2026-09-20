@@ -28,22 +28,24 @@ contributors:
 # 7. Create a Pull Request
 
 # Add your entry here:
--  name: "Atha Ezrafi"
-    github: "github.com/athaezrafi"
+-  name: "M. Zainul Arifin"
+    github: "github.com/Sunyss5"
     role: "Student"
-    batch: "19" 
-    skills: ["skill1", "skill2", "skill3"]
+    batch: "21" 
+    skills: ["html", "css", "javascript"]
     favorite_language: "JavaScript" 
-    joined_date: "2026-12-20" 
+    joined_date: "2026-09-20" 
 
 # Add your entry following the existing format
-- name: "NovelCandra"
-  github: "novalCandra"
+- name: "Doni"
+  github: "Doni"
   role: "Student"
-  batch: "18" # Your batch number
+  batch: "21" # Your batch number
   skills: ["html", "css", "javascript"]
   favorite_language: "JavaScript" # or your preferred language
-  joined_date: "2025-12-20" # Today's date
+<<<<<<< HEAD
+  joined_date: "2026-09-20" # Today's date
+
 
 # Add your entry following the existing format
 - name: "Nur Mujahidin Achmad Akbar"
@@ -53,3 +55,4 @@ contributors:
   skills: ["programming", "problem solving", "teamwork", "communication", "adaptability", "critical thinking", "time management", "leadership"]
   favorite_language: "JavaScript" # or your preferred language
   joined_date: "2026-09-01" # Today's date
+>>>>>>> upstream/main
