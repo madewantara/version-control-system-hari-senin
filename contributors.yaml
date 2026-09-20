@@ -53,3 +53,11 @@ contributors:
   skills: ["programming", "problem solving", "teamwork", "communication", "adaptability", "critical thinking", "time management", "leadership"]
   favorite_language: "JavaScript" # or your preferred language
   joined_date: "2026-09-01" # Today's date
+
+- name: "Ahmad Mufti Mubarak"
+  github: "Ahmad-Mufti"
+  role: "Student"
+  batch: "21" # Your batch number
+  skills: ["Version Control System", "Full Stack Developer", "UI UX Designer"]
+  favorite_language: "JavaScript" # or your preferred language
+  joined_date: "2026-09-20" # Today's date
