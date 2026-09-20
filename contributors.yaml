@@ -53,3 +53,11 @@ contributors:
   skills: ["Technical support", "Problem Solving", "full stack development"]
   favorite_language: "JavaScript" # or your preferred language
   joined_date: "2026-09-16" # Today's date
+# Add your entry following the existing format
+- name: "Nur Mujahidin Achmad Akbar"
+  github: "nmujahidin-aa"
+  role: "Student"
+  batch: "21" # Your batch number
+  skills: ["programming", "problem solving", "teamwork", "communication", "adaptability", "critical thinking", "time management", "leadership"]
+  favorite_language: "JavaScript" # or your preferred language
+  joined_date: "2026-09-01" # Today's date
