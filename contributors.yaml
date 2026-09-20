@@ -53,3 +53,11 @@ contributors:
   skills: ["programming", "problem solving", "teamwork", "communication", "adaptability", "critical thinking", "time management", "leadership"]
   favorite_language: "JavaScript" # or your preferred language
   joined_date: "2026-09-01" # Today's date
+
+  - name: "billy"
+  github: "billyprasasti"
+  role: "Student"
+  batch: "21" # Your batch number
+  skills: ["programming", "problem solving", "teamwork", "communication", "adaptability", "critical thinking", "time management", "leadership"]
+  favorite_language: "JavaScript" # or your preferred language
+  joined_date: "2026-09-01" # Today's date
