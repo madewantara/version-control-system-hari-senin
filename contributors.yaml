@@ -45,6 +45,15 @@ contributors:
   favorite_language: "JavaScript" # or your preferred language
   joined_date: "2025-12-20" # Today's date
 
+  # Add your entry following the existing format
+- name: "I Putu Esa Jayantika"
+  github: "esajayantika"
+  role: "Student"
+  batch: "21" # Your batch number
+  skills: ["react", "nodejs", "express"]
+  favorite_language: "JavaScript" # or your preferred language
+  joined_date: "2026-08-20" # Today's date
+
 # Add your entry following the existing format
 - name: "Nur Mujahidin Achmad Akbar"
   github: "nmujahidin-aa"
