@@ -44,3 +44,11 @@ contributors:
   skills: ["html", "css", "javascript"]
   favorite_language: "JavaScript" # or your preferred language
   joined_date: "2025-12-20" # Today's date
+
+- name: "Dimas Adi Prasetyo"
+  github: "Allyzonth"
+  role: "Student"
+  batch: "21" # Your batch number
+  skills: ["HTML", "CSS", "JavaScript"]
+  favorite_language: "JavaScript" # or your preferred language
+  joined_date: "2026-12-20" # Today's date
