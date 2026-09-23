@@ -53,3 +53,11 @@ contributors:
   skills: ["programming", "problem solving", "teamwork", "communication", "adaptability", "critical thinking", "time management", "leadership"]
   favorite_language: "JavaScript" # or your preferred language
   joined_date: "2026-09-01" # Today's date
+
+  - name: "Archy"
+  github: "github.com/Windwalker-00"
+  role: "Student"
+  batch: "19"
+  skills: ["HTML", "CSS", "JavaScript"]
+  favorite_language: "JavaScript"
+  joined_date: "2026-09-23"
