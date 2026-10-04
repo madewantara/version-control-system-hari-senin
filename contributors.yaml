@@ -46,10 +46,11 @@ contributors:
   joined_date: "2025-12-20" # Today's date
 
 # Add your entry following the existing format
-- name: "Nur Mujahidin Achmad Akbar"
-  github: "nmujahidin-aa"
+- name: "Aldi Ahmad Zakaria Latif"
+  github: "ahmad zakaria"
   role: "Student"
-  batch: "21" # Your batch number
-  skills: ["programming", "problem solving", "teamwork", "communication", "adaptability", "critical thinking", "time management", "leadership"]
+  batch: "18" # Your batch number
+  skills: ["skill1", "skill2", "skill3"]
   favorite_language: "JavaScript" # or your preferred language
-  joined_date: "2026-09-01" # Today's date
+  joined_date: "2025-12-20" # Today's date
+  bio: "Full Stack Developer Student"
